@@ -1,3 +1,41 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://azchin.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "Andrew Chin"
+theme = 'PaperMod'
+
+[params]
+[params.profileMode]
+enabled = true
+title = "Andrew Chin"
+subtitle = """PhD Student\n
+School of Cybersecurity and Privacy\n
+Georgia Institute of Technology\n
+CODA S0971Y, Atlanta GA\n
+achin34@gatech.edu
+"""
+imageUrl = "profile.jpeg"
+sectionPagesMenu = 'main'
+[[params.socialIcons]]
+name = "email"
+url = "mailto:achin34@gatech.edu"
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/azchin"
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/andrew-chin-97749516a"
+
+[menu]
+[[menu.main]]
+name = "Home"
+pageRef = '/'
+weight = 10
+[[menu.main]]
+pageRef = '/research'
+weight = 20
+[[menu.main]]
+pageRef = '/professional-experience'
+weight = 30
+[[menu.main]]
+pageRef = '/awards'
+weight = 40
