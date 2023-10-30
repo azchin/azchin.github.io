@@ -14,6 +14,8 @@ CODA S0971Y, Atlanta GA\n
 achin34@gatech.edu
 """
 imageUrl = "profile.jpeg"
+imageWidth = 150
+imageHeight = 150
 sectionPagesMenu = 'main'
 [[params.socialIcons]]
 name = "email"
