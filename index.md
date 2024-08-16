@@ -3,6 +3,10 @@ title: Andrew Chin
 layout: default
 ---
 # About Me
+I am part of [Team Atlanta](https://team-atlanta.github.io/),
+one of the winning teams in the [AIxCC](https://aicyberchallenge.com/) semi-finals competition
+at DEF CON 32. Catch us next year at the finals at DEF CON 33!
+
 I am currently a Ph.D. student at the 
 [Georgia Institute of Technology](https://www.gatech.edu/),
 working with [Prof. Taesoo Kim](https://taesoo.kim/) at the
