@@ -3,16 +3,18 @@ title: Andrew Chin
 layout: default
 ---
 # About Me
-I am part of [Team Atlanta](https://team-atlanta.github.io/),
-one of the winning teams in the [AIxCC](https://aicyberchallenge.com/) semi-finals competition
-at DEF CON 32. Catch us next year at the finals at DEF CON 33!
+Member of [Team Atlanta](https://team-atlanta.github.io/),
+winner of the [AI Cyber Challenge (AIxCC)](https://aicyberchallenge.com/).
+
+Primary maintainer of [OSS-CRS](https://oss-crs.openssf.org/), a sandbox
+project in the [OpenSSF](https://openssf.org/).
 
 I am currently a Ph.D. student at the 
 [Georgia Institute of Technology](https://www.gatech.edu/),
 working with [Prof. Taesoo Kim](https://taesoo.kim/) at the
 [Systems Software & Security Lab](https://gts3.org/).
 My research interests are in software and system security, and I am
-currently working on using LLM's to assist fuzzers.
+currently working on AI for vulnerability discovery and remediation.
 
 Before starting my Ph.D., I graduated from the [University of Waterloo](https://uwaterloo.ca/) with a
 Bachelor's in Computer Science and was advised by [Prof. Meng Xu](https://cs.uwaterloo.ca/~m285xu/).
@@ -22,7 +24,7 @@ Bachelor's in Computer Science and was advised by [Prof. Meng Xu](https://cs.uwa
 **Research Assistant**
 [@SSLab, GaTech](https://gts3.org/)
 <span style="float:right;">2023 - Present</span></p>
-- LLM-guided fuzzing harness and seed generation
+- Cyber Reasoning Systems (CRS) for AI bug-finding and patching
 
 <p style="text-align:left" markdown=1>
 **Research Assistant**
@@ -45,7 +47,17 @@ Bachelor's in Computer Science and was advised by [Prof. Meng Xu](https://cs.uwa
 - Vulnerability assessment, STRIDE threat model on the QNX microkernel
 - Vulnerability assessment, STRIDE threat model, design assessment on BlackBerry IVY
 
-# Awards
+# Prizes and Awards
+<p style="text-align:left" markdown=1>
+**AIxCC Finals** with [Team Atlanta](https://team-atlanta.github.io/) from [DARPA](https://www.darpa.mil/) / [ARPA-H](https://arpa-h.gov/)
+<span style="float:right;">2025</span></p>
+- $4 million prize at the AI Cyber Challenge finals at DEF CON 33
+
+<p style="text-align:left" markdown=1>
+**AIxCC Semifinals** with [Team Atlanta](https://team-atlanta.github.io/) from [DARPA](https://www.darpa.mil/) / [ARPA-H](https://arpa-h.gov/)
+<span style="float:right;">2024</span></p>
+- $1 million prize at the AI Cyber Challenge semifinals at DEF CON 32
+
 <p style="text-align:left" markdown=1>
 **Undergraduate Student Research Award** from
 [NSERC](https://www.nserc-crsng.gc.ca/index_eng.asp)
